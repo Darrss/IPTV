@@ -11,6 +11,18 @@ https://server101.online/globo-sp/index.m3u8?token=bc3571995cf1509a1a56dda043f65
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS AO VIVO",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS AO VIVO",HBO
+https://server101.online/hbo/index.m3u8?token=d222f359cd6c23876158dca317641d07e880cb6c-c7260b7f2aae97112cbd6593b635efe3-1682977336-1682970136&remote=200.155.1.82
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS AO VIVO",CARTOON NETWORK 
+https://server101.online/cartoon/index.m3u8?token=dcf23bfa3a27e1f640f8a4e02eedde20535c5f7a-ef16eedd993fdbe428ad342e4619af50-1682978482-1682971282&remote=200.155.1.82 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="CANAIS AO VIVO",PREMIERE HD
+https://server101.online/premiere/index.m3u8?token=5685f97d988c858c8ebb6943399ea9a0fd5799ea-5a891c3bd4918a773e952fd316bd40f7-1682978740-1682971540&remote=200.155.1.82
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/03/Anime%21_TV.png/revision/latest?cb=20170216052432" group-title="CANAIS AO VIVO",ANIME AÇÃO
+https://server101.online/anime-acao/index.m3u8?token=2fb21e4ab94ff8772971bbf77e3bef4462291912-7c9988d79cdc4c8ba61a24617462df35-1682979133-1682971933&remote=200.155.1.82
+
 ### FILMES/VARIADOS ###
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Super_Mario_Bros._Movie_logo.png/2401px-The_Super_Mario_Bros._Movie_logo.png" group-title="FILMES/VARIADOS",SUPER MARIO BROS:O FILME 
