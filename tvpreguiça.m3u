@@ -3,7 +3,7 @@
 ### CANAIS TV ABERTA ###
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="CANAIS TV ABERTA",GLOBO 
-https://server101.online/globo-sp/index.m3u8?token=bc3571995cf1509a1a56dda043f651aa18e2e5d0-d294507ec10b035c9d3dc0bcda475bca-1682975260-1682968060&remote=200.155.1.82
+https://server101.online/globo-sp/index.m3u8?token=fbcdde353b5b1d56ebf2d3e96f2939d6b076c1a9-117f8a5c96d67ec6f732022b508d7b08-1682994480-1682987280&remote=200.155.1.82
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS TV ABERTA",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -11,7 +11,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 ### CANAIS INFANTIS ###
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIS",CARTOON NETWORK 
-https://server101.online/cartoon/index.m3u8?token=dcf23bfa3a27e1f640f8a4e02eedde20535c5f7a-ef16eedd993fdbe428ad342e4619af50-1682978482-1682971282&remote=200.155.1.82 
+https://server101.online/cartoon/index.m3u8?token=c680bc3618cdd5e8aa995ab926722adf0a9bd601-008479fe634d4c122eb6e64a442226ea-1682995646-1682988446&remote=200.155.1.82
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="CANAIS INFANTIS",GLOOB 
 https://server101.online/gloob/index.m3u8?token=91432e08bc83509cbdf22e5494554f31c237dcfa-40adfe452d8ee97a0323d83611df0ca5-1682990361-1682983161&remote=200.155.1.82
@@ -21,8 +21,11 @@ https://server101.online/tv-junior/index.m3u8?token=6e0580539c17f6d51f204cbe828a
 
 ### CANAIS DE ESPORTES ###
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="CANAIS DE ESPORTES",PREMIERE HD
-https://server101.online/premiere/index.m3u8?token=5685f97d988c858c8ebb6943399ea9a0fd5799ea-5a891c3bd4918a773e952fd316bd40f7-1682978740-1682971540&remote=200.155.1.82
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="CANAIS DE ESPORTES",PREMIERE 1 HD
+https://server101.online/premiere/index.m3u8?token=5bdfb37defc329f7d8e716cfe7265a8c5b408367-fddabf21ead550db64270966b55c9c90-1682993675-1682986475&remote=200.155.1.82
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="CANAIS DE ESPORTES",PREMIERE 2 HD
+https://server101.online/premiere2/index.m3u8?token=8be67a1de7412a6c9b33ed120a8f14fdf837b46b-04f39dd3974c9d683a5bb8030fd6ea5f-1682993750-1682986550&remote=200.155.1.82
 
 ### CANAIS DE ANIMES ###
 
@@ -30,7 +33,7 @@ https://server101.online/premiere/index.m3u8?token=5685f97d988c858c8ebb6943399ea
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/03/Anime%21_TV.png/revision/latest?cb=20170216052432" group-title="CANAIS DE ANIMES",ANIME AÇÃO
-https://server101.online/anime-acao/index.m3u8?token=2fb21e4ab94ff8772971bbf77e3bef4462291912-7c9988d79cdc4c8ba61a24617462df35-1682979133-1682971933&remote=200.155.1.82 
+https://server101.online/anime-acao/index.m3u8?token=faa4560875d60b5650c19f4af08e007686b247c8-1f03d2e453bddafd030ccd716d73824c-1682995784-1682988584&remote=200.155.1.82
 
 ### CANAIS DE FILMES ###
 
@@ -38,7 +41,7 @@ https://server101.online/anime-acao/index.m3u8?token=2fb21e4ab94ff8772971bbf77e3
 https://ser23bd0ff2af5f7d9de2f917aaddcfa3e35f-4f10f4cca8983125ee600cfb8a0aff7a-1682990821-1682983621&remote=200.155.1.82
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS DE FILMES",HBO
-https://server101.online/hbo/index.m3u8?token=d222f359cd6c23876158dca317641d07e880cb6c-c7260b7f2aae97112cbd6593b635efe3-1682977336-1682970136&remote=200.155.1.82
+https://server101.online/hbo/index.m3u8?token=ffaf2100e09a6280052b4773d8467771713dd7cb-3b10d13020c3699ecde48ecbc508f506-1682995942-1682988742&remote=200.155.1.82
 
 ### FILMES/VARIADOS ###
 
@@ -78,36 +81,36 @@ https://cloclo58.cloud.mail.ru/weblink/view//wFJq/1hRVEJyjG
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/pp_mulan_logo_20529_4b763f6d.png" group-title="FILMES/ANIMAÇÃO" group-title="FILMES/VARIADOS",MULAN 
 https://cloclo11.cloud.mail.ru/weblink/view//Fugb/ryNkaAZ8b
 
-### LEGIÃO D SUPER HERÓIS TEMP1 ###
+### THE LAST OF US ###
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="LEGIÃO D SUPER HEROIS TEMP1",LEGIÃO D SUPER HERÓIS EP1 
-https://2448361324.tapecontent.net/radosgw/Mq9PeoW3PeHm71x/ZQHxluE7w_1sR5IYHOieXc6VFx1Bzfl9ANNJse33qGRlYolk176_e6GNCC4i_T9HkNdEeihreRSh_W1rR5JmTpF7Hc3LkW5rBlUaz6qYwQKfqw_PzH7W06fqFtIOW1dbALwtrMTJvAFOQqB6n-KhsK_2SYPSukrusmhOnl93wNIhVjWIqR2xSDuKU5tpjr7T9dzEE0OyMQ7LS9h6P75UvfC90dyhdIXyIbDQjeWDUjeckrRAGFQOJOWx1uLCRiTy08iAWbO-J6l5K25yVb6a2cRDqUMVGddtdoj7kfdbXyVDefcLVK620mMvmOjb4-kWhhkyoKCr7EmXI3jlaKOG_QH-UN78CBubSvhQ6A/Legion.of.Super.Heroes.S01E01.1080p.HMAX.WEB-DL.DD2.0.x264-PiA-POR.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="TLOU",TLOU EP1 TEMP1
+https://cloclo56.cloud.mail.ru/weblink/view//RPk3/GNjonw9dH
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="LEGIÃO D SUPER HEROIS TEMP1",LEGIÃO D SUPER HERÓIS EP2 
-https://streamtape.com/get_video?id=x1lLW1wYMBCvMm&expires=1682982024&ip=GxIsD0IOKxSHDN&token=suifQYbfmg2p&stream=1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="TLOU",TLOU EP2 TEMP1
+https://cloclo21.cloud.mail.ru/weblink/view//tGv2/vBNfEPhRN
 
-### WANDINHA TEMP1###
+### WANDINHA ###
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA TEMP1",WANDINHA EP1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP1 TEMP1
 https://cloclo21.cloud.mail.ru/weblink/view//6HuE/A9GpQLfm4
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA TEMP1",WANDINHA EP2
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP2 TEMP1
 https://cloclo58.cloud.mail.ru/weblink/view//vfi2/2L7KALJjC
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA TEMP1",WANDINHA EP3
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP3 TEMP1
 https://cloclo54.cloud.mail.ru/weblink/view//mbYa/Z7b5B4jcc
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA TEMP1",WANDINHA EP4 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP4 TEMP1
 https://cloclo13.cloud.mail.ru/weblink/view//tkGo/9SMghbD2W
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA TEMP1",WANDINHA EP5 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP5 TEMP1
 https://cloclo4.cloud.mail.ru/weblink/view//ZKbZ/vXYpL2cVY
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA TEMP1",WANDINHA EP6 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP6 TEMP1
 https://cloclo57.cloud.mail.ru/weblink/view//ZUPN/jLQSRDeWD 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA TEMP1",WANDINHA EP7 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP7 TEMP1
 https://cloclo4.cloud.mail.ru/weblink/view//JC5f/FGCvkzTE3
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA TEMP1",WANDINHA EP8 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP8 TEMP1
 https://cloclo58.cloud.mail.ru/weblink/view//NSPp/hgwDu13df
