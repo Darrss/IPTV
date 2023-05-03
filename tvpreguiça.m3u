@@ -9,9 +9,9 @@ https://server101.online/globo-sp/index.m3u8?token=22fd28d6d0a03b0ee51d7d397a010
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7014-1071_import.png" group-title="CANAIS AO VIVO",BAND
-https://www.dailymotion.com/cdn/live/video/x83vbd6.m3u8?sec=DVwKo4rnuFX14ELcRiuvBlRwGKFBIiM_Xvvzu-kQqj8PEY9OhuMdMHjgyfudr5K1lTFvVn9y0_x-voY-tnsbrw&dmTs=972907&dmV1st=66de6a8b-f1e6-48c6-ab36-af7f0d8f5950
+https://server101.online/band/index.m3u8?token=7253da0ad67d6167929dfb1feb2b55fd98edf6e4-06d20221f141c69b7964ed8d3671d86c-1683077465-1683070265&remote=200.155.1.82
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpYkM8xD9E6rySBDPwrOFtnk1mF4XeTv17g&usqp=CAU" group-title="CANAIS AO VIVO",REDE TV
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="CANAIS AO VIVO",REDE TV
 https://server101.online/redetv/index.m3u8?token=8809f7cbe2ff0c29e24bebd818ba6ae91be97e1c-55a6b20ede20235871eff2f4d097c437-1683074119-1683066919&remote=200.155.1.82
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/SporTV_3_logo_2016.png" group-title="CANAIS AO VIVO",SPORT TV 3
@@ -22,6 +22,19 @@ https://server101.online/premiere/index.m3u8?token=dbd8b4b4ef6ce4bcaa102b90d10e2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/1024px-Paramount%2B_logo.png" group-title="CANAIS AO VIVO",PARAMOUNT+
 https://server101.online/conmebol1/index.m3u8?token=58deaf3025da27c38276b782c0f09c9064e1452d-c964915d11529988d2656937404a961c-1683076704-1683069504&remote=200.155.1.82
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS AO VIVO",HBO
+https://server101.online/hbo/index.m3u8?token=bd975afe01a5164bc88d892f06b83d094e142091-78777de7b2232a5494e9c69fafc9c114-1683077724-1683070524&remote=200.155.1.82
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="CANAIS AO VIVO",NICK TEEN
+https://server101.online/nick-teen/index.m3u8?token=574f437ecc69537097a2d4100bfb48eb1dcd3cb7-91721e88e8f84089153a5766e53ee427-1683077969-1683070769&remote=200.155.1.82
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/03/Anime%21_TV.png/revision/latest?cb=20170216052432" group-title="CANAIS AO VIVO",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS AO VIVO",DISNEY CHANNEL
+https://server101.online/disney/index.m3u8?token=7c474542ff0e0f279904ab80ce8a518601c3191d-b26d15325d47e622925cdcc91ece7380-1683078607-1683071407&remote=200.155.1.82
+
 
 
 
@@ -59,6 +72,12 @@ https://cloclo58.cloud.mail.ru/weblink/view//wFJq/1hRVEJyjG
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/pp_mulan_logo_20529_4b763f6d.png" group-title="FILMES",MULAN 
 https://cloclo11.cloud.mail.ru/weblink/view//Fugb/ryNkaAZ8b
+
+#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Justice-League-Logo-2017.png" group-title="FILMES",LIGA DA JUSTIÇA X RWBY: SUPER-HERÓIS E CAÇADORES - PARTE 1
+https://cloclo51.cloud.mail.ru/weblink/view//iavp/nWKAE2gMX
+
+#EXTINF:-1 group-title="FILMES",OS TRÊS MOSQUETEIROS:D'ARTAGNAN
+https://cloclo56.cloud.mail.ru/weblink/view//jFjh/t25z3RCbr
 
 #### AMOR MODERNO ####
 
