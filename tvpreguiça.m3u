@@ -3,39 +3,37 @@
 #### CANAIS AO VIVO ####
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="CANAIS AO VIVO",GLOBO
-https://server101.online/globo-sp/index.m3u8?token=22fd28d6d0a03b0ee51d7d397a01025944bdaef7-54cdfda4e4e6f36eb8e9a62761f179c8-1683073095-1683065895&remote=200.155.1.82
+https://server101.online:443/globo-sp/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=28df8698ff944c57681526d50d213c5482f74c5a-b749cf5fb72e90055879c5930ce10555-1683159953-1683152753
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="CANAIS AO VIVO",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7014-1071_import.png" group-title="CANAIS AO VIVO",BAND
-https://server101.online/band/index.m3u8?token=7253da0ad67d6167929dfb1feb2b55fd98edf6e4-06d20221f141c69b7964ed8d3671d86c-1683077465-1683070265&remote=200.155.1.82
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bpfnYCNpvSqA2Me5l7NztYVsvs3AkRHAjEOVD8_mWeq)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="CANAIS AO VIVO",REDE TV
-https://server101.online/redetv/index.m3u8?token=8809f7cbe2ff0c29e24bebd818ba6ae91be97e1c-55a6b20ede20235871eff2f4d097c437-1683074119-1683066919&remote=200.155.1.82
+https://server101.online:443/redetv/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=d433f1b6ba9fde1d8748a1e0db5bcf2d9710d0da-447cd1f4e95ba4fb5c64e852ea59436b-1683160760-1683153560
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/SporTV_3_logo_2016.png" group-title="CANAIS AO VIVO",SPORT TV 3
-https://server101.online/sportv3-op2/index.m3u8?token=926476584fa0933ed216974bd5b55632ac70f5f1-2169308f20380642da557fb906bbe019-1683076253-1683069053&remote=200.155.1.82
+https://server101.online:443/sportv3/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=028076e1520c7304e5e6504c446f1baa1902374b-ba20e2f8a568b6fb4f278877ea855264-1683160390-1683153190
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="CANAIS AO VIVO",PREMIERE HD 1
-https://server101.online/premiere/index.m3u8?token=dbd8b4b4ef6ce4bcaa102b90d10e24958e8272e9-967d2545c1ebcf0f63ea1f67f4247913-1683076481-1683069281&remote=200.155.1.82
+https://server101.online:443/premiere/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=4fa0b840825d57b77fa8dc7c518f0b4c0d5f7cda-1427e5819106f361042f7cadba493994-1683159719-1683152519
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/1024px-Paramount%2B_logo.png" group-title="CANAIS AO VIVO",PARAMOUNT+
-https://server101.online/conmebol1/index.m3u8?token=58deaf3025da27c38276b782c0f09c9064e1452d-c964915d11529988d2656937404a961c-1683076704-1683069504&remote=200.155.1.82
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/1024px-Paramount%2B_logo.png" group-title="CANAIS AO VIVO",PARAMOUNT
+https://server101.online:443/paramount/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=a69bb17fcaad2fe76542dc1ba5482add075f7742-7f7451e78ef02eeb934e558080b40fe1-1683160979-1683153779
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS AO VIVO",HBO
-https://server101.online/hbo/index.m3u8?token=bd975afe01a5164bc88d892f06b83d094e142091-78777de7b2232a5494e9c69fafc9c114-1683077724-1683070524&remote=200.155.1.82
+https://server101.online:443/hbo/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=4dc73a0f75f258ef23036b257a75bdd984fd9c6d-379014689dde9571be8a64717aa66616-1683160076-1683152876
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="CANAIS AO VIVO",NICK TEEN
-https://server101.online/nick-teen/index.m3u8?token=574f437ecc69537097a2d4100bfb48eb1dcd3cb7-91721e88e8f84089153a5766e53ee427-1683077969-1683070769&remote=200.155.1.82
+https://server101.online:443/nick-teen/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=8fcd06b847ac068a7e7cc716d4e412c7d9746cd5-8daa8439de7df5c7591cd2145ff61ad2-1683160201-1683153001
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/03/Anime%21_TV.png/revision/latest?cb=20170216052432" group-title="CANAIS AO VIVO",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS AO VIVO",DISNEY CHANNEL
-https://server101.online/disney/index.m3u8?token=7c474542ff0e0f279904ab80ce8a518601c3191d-b26d15325d47e622925cdcc91ece7380-1683078607-1683071407&remote=200.155.1.82
-
-
+https://server101.online:443/disney/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=29a0903e44246e463aa4d98d4aeff21da6110598-d484b6fc801dc64825cf0a775e5fd2d3-1683160550-1683153350
 
 
 #### FILMES ####
