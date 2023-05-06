@@ -1,47 +1,29 @@
 #EXTM3U
 
-#### CANAIS AO VIVO ####
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="CANAIS AO VIVO",GLOBO
-https://server101.online:443/globo-sp/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=28df8698ff944c57681526d50d213c5482f74c5a-b749cf5fb72e90055879c5930ce10555-1683159953-1683152753
+#### CANAIS 24 HORAS ####
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="CANAIS AO VIVO",SBT
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HR",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7014-1071_import.png" group-title="CANAIS AO VIVO",BAND
-https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bpfnYCNpvSqA2Me5l7NztYVsvs3AkRHAjEOVD8_mWeq)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="CANAIS AO VIVO",REDE TV
-https://server101.online:443/redetv/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=d433f1b6ba9fde1d8748a1e0db5bcf2d9710d0da-447cd1f4e95ba4fb5c64e852ea59436b-1683160760-1683153560
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/SporTV_3_logo_2016.png" group-title="CANAIS AO VIVO",SPORT TV 3
-https://server101.online:443/sportv3/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=028076e1520c7304e5e6504c446f1baa1902374b-ba20e2f8a568b6fb4f278877ea855264-1683160390-1683153190
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="CANAIS AO VIVO",PREMIERE HD 1
-https://server101.online:443/premiere/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=4fa0b840825d57b77fa8dc7c518f0b4c0d5f7cda-1427e5819106f361042f7cadba493994-1683159719-1683152519
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/1024px-Paramount%2B_logo.png" group-title="CANAIS AO VIVO",PARAMOUNT
-https://server101.online:443/paramount/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=a69bb17fcaad2fe76542dc1ba5482add075f7742-7f7451e78ef02eeb934e558080b40fe1-1683160979-1683153779
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS AO VIVO",HBO
-https://server101.online:443/hbo/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=4dc73a0f75f258ef23036b257a75bdd984fd9c6d-379014689dde9571be8a64717aa66616-1683160076-1683152876
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="CANAIS AO VIVO",NICK TEEN
-https://server101.online:443/nick-teen/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=8fcd06b847ac068a7e7cc716d4e412c7d9746cd5-8daa8439de7df5c7591cd2145ff61ad2-1683160201-1683153001
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/03/Anime%21_TV.png/revision/latest?cb=20170216052432" group-title="CANAIS AO VIVO",ANIME TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/03/Anime%21_TV.png/revision/latest?cb=20170216052432" group-title="CANAIS 24HR",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS AO VIVO",DISNEY CHANNEL
-https://server101.online:443/disney/tracks-v1a1/mono.m3u8?remote=200.155.1.82&token=29a0903e44246e463aa4d98d4aeff21da6110598-d484b6fc801dc64825cf0a775e5fd2d3-1683160550-1683153350
 
 
 #### FILMES ####
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Super_Mario_Bros._Movie_logo.png/2401px-The_Super_Mario_Bros._Movie_logo.png" group-title="FILMES",SUPER MARIO BROS:O FILME 
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/degn1d8-963da678-da92-4dbd-acc5-8c9e9a9b34e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MFwvZGVnbjFkOC05NjNkYTY3OC1kYTkyLTRkYmQtYWNjNS04YzllOWE5YjM0ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HSiLqBk_Qlby8vbuIwv0M7MLx3jkoGsv8N45zDQ_Tg8" group-title="FILMES",YU-GI-OH! O FILME: PIRAMIDE DE LUZ
+https://cloclo1.cloud.mail.ru/weblink/view//sAip/ZwSsAxueE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Super_Mario_Bros._Movie_logo.png/2401px-The_Super_Mario_Bros._Movie_logo.png" group-title="FILMES",SUPER MARIO BROS: O FILME 
 https://cloclo60.cloud.mail.ru/weblink/view//Pavx/YCHetcAxd
 
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/Avatar-2-The-Way-of-Water-Film-PNG-Picture.png" group-title="FILMES",AVATAR:O CAMINHO DA ÁGUA
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/Avatar-2-The-Way-of-Water-Film-PNG-Picture.png" group-title="FILMES",AVATAR: O CAMINHO DA ÁGUA
 https://cloclo55.cloud.mail.ru/weblink/view//Vmtw/ior1DAf3S
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lAeyKTbAtvoV9poQndmWnJAibZ5.png" group-title="FILMES",M3GAN 
@@ -53,19 +35,19 @@ https://cloclo58.cloud.mail.ru/weblink/view//PzDn/eb8WqaiUT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Peter_Pan_et_Wendy_2023.png" group-title="FILMES",PETER PAN & WENDY 
 https://cloclo54.cloud.mail.ru/weblink/view//9LSi/hws3d1UfB
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/dust_bunny_logos_portuguese_11-01-22_simplified_sin_bg_a7226a37.png" group-title="FILMES",HOMEM FORMIGA E A VESPA:QUANTUMANIA
-https://streamtape.com/get_video?id=RAyjQYrQ9eFd3yz&expires=1682981651&ip=GxIsD0IOKxSHDN&token=LgXT_qgn2WTH&stream=1
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/dust_bunny_logos_portuguese_11-01-22_simplified_sin_bg_a7226a37.png" group-title="FILMES",HOMEM FORMIGA E A VESPA: QUANTUMANIA
+https://cloclo57.cloud.mail.ru/weblink/view//q3VD/5ijSVnHki
 
 #EXTINF:-1 tvg-logo="https://images.fanart.tv/fanart/creed-iii-63acc581ec2db.png" group-title="FILMES",CREED 3 
 https://cloclo58.cloud.mail.ru/weblink/view//4Ht4/GLqZWBSJc
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Sonic_the_Movie_Logo.png" group-title="FILMES",SONIC:O FILME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Sonic_the_Movie_Logo.png" group-title="FILMES",SONIC: O FILME
 https://cloclo21.cloud.mail.ru/weblink/view//P4XR/FGN3dVJAv
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sonic_the_Hedgehog_2_film_logo.png/revision/latest?cb=20220201233500" group-title="FILMES",SONIC 2:O FILME
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sonic_the_Hedgehog_2_film_logo.png/revision/latest?cb=20220201233500" group-title="FILMES",SONIC 2: O FILME
 https://cloclo54.cloud.mail.ru/weblink/view//DZLg/uEk7Hb6fc
 
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/12/The-LEGO-Batman-Movie-Transparent-Free-PNG.png" group-title="FILMES",LEGO BATMAN:O FILME 
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/12/The-LEGO-Batman-Movie-Transparent-Free-PNG.png" group-title="FILMES",LEGO BATMAN: O FILME 
 https://cloclo58.cloud.mail.ru/weblink/view//wFJq/1hRVEJyjG
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/pp_mulan_logo_20529_4b763f6d.png" group-title="FILMES",MULAN 
@@ -74,86 +56,92 @@ https://cloclo11.cloud.mail.ru/weblink/view//Fugb/ryNkaAZ8b
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Justice-League-Logo-2017.png" group-title="FILMES",LIGA DA JUSTIÇA X RWBY: SUPER-HERÓIS E CAÇADORES - PARTE 1
 https://cloclo51.cloud.mail.ru/weblink/view//iavp/nWKAE2gMX
 
-#EXTINF:-1 group-title="FILMES",OS TRÊS MOSQUETEIROS:D'ARTAGNAN
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="FILMES",OS TRÊS MOSQUETEIROS: D'ARTAGNAN
 https://cloclo56.cloud.mail.ru/weblink/view//jFjh/t25z3RCbr
+
 
 #### AMOR MODERNO ####
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="AMOR MODERNO",AMOR MODERNO EP1 TEMP1
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP1 TEMP1
 https://cloclo13.cloud.mail.ru/weblink/view//Mc3o/niniTDZaB
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="AMOR MODERNO",AMOR MODERNO EP2 TEMP1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP2 TEMP1
 https://cloclo14.cloud.mail.ru/weblink/view//Zq3c/AVmPjddTu
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="AMOR MODERNO",AMOR MODERNO EP3 TEMP1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP3 TEMP1
 https://cloclo51.cloud.mail.ru/weblink/view//puS3/kXvTngTZH
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="AMOR MODERNO",AMOR MODERNO EP4 TEMP1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP4 TEMP1
 https://cloclo13.cloud.mail.ru/weblink/view//VuRj/ZuitkK8Ag
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="AMOR MODERNO",AMOR MODERNO EP5 TEMP1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP5 TEMP1
 https://cloclo13.cloud.mail.ru/weblink/view//VuRj/ZuitkK8Ag
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="AMOR MODERNO",AMOR MODERNO EP6 TEMP1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP6 TEMP1
 https://cloclo55.cloud.mail.ru/weblink/view//r6gb/tWBzUEmBX
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="AMOR MODERNO",AMOR MODERNO EP7 TEMP1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP7 TEMP1
 https://cloclo14.cloud.mail.ru/weblink/view//TpwH/2nP5dm1eH
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="AMOR MODERNO",AMOR MODERNO EP8 TEMP1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP8 TEMP1
 https://cloclo53.cloud.mail.ru/weblink/view//n7pC/9hFBmaqUq
+
 
 #### THE LAST OF US ####
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP1 TEMP1
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP1 TEMP1
 https://cloclo56.cloud.mail.ru/weblink/view//RPk3/GNjonw9dH
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP2 TEMP1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP2 TEMP1
 https://cloclo21.cloud.mail.ru/weblink/view//tGv2/vBNfEPhRN
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP3 TEMP1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP3 TEMP1
 https://cloclo57.cloud.mail.ru/weblink/view//PGWd/nQ73Uh1Y3
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP4 TEMP1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP4 TEMP1
 https://cloclo58.cloud.mail.ru/weblink/view//SnPY/LGpsKfSSV
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP5 TEMP1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP5 TEMP1
 https://cloclo56.cloud.mail.ru/weblink/view//ieCS/wVod1Lob7
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP6 TEMP1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP6 TEMP1
 https://cloclo58.cloud.mail.ru/weblink/view//HuSt/A7RgmFG7c
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP7 TEMP1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP7 TEMP1
 https://cloclo61.cloud.mail.ru/weblink/view//mSkj/S7ecrMXEt
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP8 TEMP1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP8 TEMP1
 https://cloclo4.cloud.mail.ru/weblink/view//BVFT/1stV7jYPh
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="THE LAST OF US",THE LAST OF US EP9 TEMP1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP9 TEMP1
 https://cloclo53.cloud.mail.ru/weblink/view//yy5H/4RYv4f3p7
+
 
 #### WANDINHA ####
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP1 TEMP1
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP1 TEMP1
 https://cloclo21.cloud.mail.ru/weblink/view//6HuE/A9GpQLfm4
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP2 TEMP1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP2 TEMP1
 https://cloclo58.cloud.mail.ru/weblink/view//vfi2/2L7KALJjC
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP3 TEMP1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP3 TEMP1
 https://cloclo54.cloud.mail.ru/weblink/view//mbYa/Z7b5B4jcc
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP4 TEMP1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP4 TEMP1
 https://cloclo13.cloud.mail.ru/weblink/view//tkGo/9SMghbD2W
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP5 TEMP1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP5 TEMP1
 https://cloclo4.cloud.mail.ru/weblink/view//ZKbZ/vXYpL2cVY
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP6 TEMP1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP6 TEMP1
 https://cloclo57.cloud.mail.ru/weblink/view//ZUPN/jLQSRDeWD 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP7 TEMP1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP7 TEMP1
 https://cloclo4.cloud.mail.ru/weblink/view//JC5f/FGCvkzTE3
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="WANDINHA",WANDINHA EP8 TEMP1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP8 TEMP1
 https://cloclo58.cloud.mail.ru/weblink/view//NSPp/hgwDu13df
