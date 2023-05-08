@@ -1,183 +1,243 @@
 #EXTM3U
 
-
 #### CANAIS 24 HORAS ####
 
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
+
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HR",SBT
+
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/03/Anime%21_TV.png/revision/latest?cb=20170216052432" group-title="CANAIS 24HR",ANIME TV
+
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
+#### FILMES/TERROR ####
 
-#### FILMES ####
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lAeyKTbAtvoV9poQndmWnJAibZ5.png" group-title="FILMES/TERROR",M3GAN 
 
-
-#EXTINF:-1 tvg-logo="https://imagepng.org/wp-content/uploads/2018/10/retangulo.png" group-title="FILMES",UMA PROVA DE AMOR 
-https://cloclo60.cloud.mail.ru/weblink/view//Cbsg/4T1ZFS7t3
-
-#EXTINF:-1 tvg-logo="https://johnwick4.com.br/wp-content/uploads/2023/02/slider.png" group-title="FILMES",JOHN WICK 4: BABA YAGA
-https://cloclo60.cloud.mail.ru/weblink/view//LK4L/rbJjMRqze
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Super_Mario_Bros._Movie_logo.png/2401px-The_Super_Mario_Bros._Movie_logo.png" group-title="FILMES",SUPER MARIO BROS: O FILME 
-https://cloclo60.cloud.mail.ru/weblink/view//Pavx/YCHetcAxd
-
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/Avatar-2-The-Way-of-Water-Film-PNG-Picture.png" group-title="FILMES",AVATAR: O CAMINHO DA ÁGUA
-https://cloclo55.cloud.mail.ru/weblink/view//Vmtw/ior1DAf3S
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lAeyKTbAtvoV9poQndmWnJAibZ5.png" group-title="FILMES",M3GAN 
 https://cloclo57.cloud.mail.ru/weblink/view//axQh/sLNfyoZDb
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/693442f50542edbcb00a83b9afb54cfd_4096x2048_5ac989c3.png" group-title="FILMES",PANTERA NEGRA: WAKANDA PARA SEMPRE 
-https://cloclo58.cloud.mail.ru/weblink/view//PzDn/eb8WqaiUT
+#### FILMES/AÇÃO ####
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Peter_Pan_et_Wendy_2023.png" group-title="FILMES",PETER PAN & WENDY 
-https://cloclo54.cloud.mail.ru/weblink/view//9LSi/hws3d1UfB
+#EXTINF:-1 tvg-logo="https://johnwick4.com.br/wp-content/uploads/2023/02/slider.png" group-title="FILMES/AÇÃO",JOHN WICK 4: BABA YAGA
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/dust_bunny_logos_portuguese_11-01-22_simplified_sin_bg_a7226a37.png" group-title="FILMES",HOMEM FORMIGA E A VESPA: QUANTUMANIA
-https://cloclo57.cloud.mail.ru/weblink/view//q3VD/5ijSVnHki
+https://cloclo60.cloud.mail.ru/weblink/view//LK4L/rbJjMRqze
 
-#EXTINF:-1 tvg-logo="https://images.fanart.tv/fanart/creed-iii-63acc581ec2db.png" group-title="FILMES",CREED 3 
+#EXTINF:-1 tvg-logo="https://images.fanart.tv/fanart/creed-iii-63acc581ec2db.png" group-title="FILMES/AÇÃO",CREED 3 
+
 https://cloclo58.cloud.mail.ru/weblink/view//4Ht4/GLqZWBSJc
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Sonic_the_Movie_Logo.png" group-title="FILMES",SONIC: O FILME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Sonic_the_Movie_Logo.png" group-title="FILMES/AÇÃO",SONIC: O FILME
+
 https://cloclo21.cloud.mail.ru/weblink/view//P4XR/FGN3dVJAv
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sonic_the_Hedgehog_2_film_logo.png/revision/latest?cb=20220201233500" group-title="FILMES",SONIC 2: O FILME
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sonic_the_Hedgehog_2_film_logo.png/revision/latest?cb=20220201233500" group-title="FILMES/AÇÃO",SONIC 2: O FILME
+
 https://cloclo54.cloud.mail.ru/weblink/view//DZLg/uEk7Hb6fc
 
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/12/The-LEGO-Batman-Movie-Transparent-Free-PNG.png" group-title="FILMES",LEGO BATMAN: O FILME 
-https://cloclo58.cloud.mail.ru/weblink/view//wFJq/1hRVEJyjG
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/693442f50542edbcb00a83b9afb54cfd_4096x2048_5ac989c3.png" group-title="FILMES/AÇÃO",PANTERA NEGRA: WAKANDA PARA SEMPRE 
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/pp_mulan_logo_20529_4b763f6d.png" group-title="FILMES",MULAN 
-https://cloclo11.cloud.mail.ru/weblink/view//Fugb/ryNkaAZ8b
+https://cloclo58.cloud.mail.ru/weblink/view//PzDn/eb8WqaiUT
 
-#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Justice-League-Logo-2017.png" group-title="FILMES",LIGA DA JUSTIÇA X RWBY: SUPER-HERÓIS E CAÇADORES - PARTE 1
-https://cloclo51.cloud.mail.ru/weblink/view//iavp/nWKAE2gMX
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/Avatar-2-The-Way-of-Water-Film-PNG-Picture.png" group-title="FILMES/AÇÃO",AVATAR: O CAMINHO DA ÁGUA
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="FILMES",OS TRÊS MOSQUETEIROS: D'ARTAGNAN
+https://cloclo55.cloud.mail.ru/weblink/view//Vmtw/ior1DAf3S
+
+#### FILMES/AVENTURA ####
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="FILMES/AVENTURA",OS TRÊS MOSQUETEIROS: D'ARTAGNAN
+
 https://cloclo56.cloud.mail.ru/weblink/view//jFjh/t25z3RCbr
 
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/12/Joker-2019-Background-PNG.png" group-title="FILMES",CORINGA
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/dust_bunny_logos_portuguese_11-01-22_simplified_sin_bg_a7226a37.png" group-title="FILMES/AVENTURA",HOMEM FORMIGA E A VESPA: QUANTUMANIA
+
+https://cloclo57.cloud.mail.ru/weblink/view//q3VD/5ijSVnHki
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Peter_Pan_et_Wendy_2023.png" group-title="FILMES/AVENTURA",PETER PAN & WENDY 
+
+https://cloclo54.cloud.mail.ru/weblink/view//9LSi/hws3d1UfB
+
+#### FILMES/DRAMA ####
+
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/12/Joker-2019-Background-PNG.png" group-title="FILMES/DRAMA",CORINGA
+
 https://cloclo59.cloud.mail.ru/weblink/view//dP8C/KFeY9PBDh
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="FILMES/DRAMA",UMA PROVA DE AMOR 
+
+https://cloclo60.cloud.mail.ru/weblink/view//Cbsg/4T1ZFS7t3
+
+#### FILMES/ANIMAÇÃO ####
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/The_Lorax_logo.png/revision/latest/scale-to-width-down/250?cb=20211016000530" group-title="FILMES/ANIMAÇÃO",O LORAX: EM BUSCA DA TRÚFULA PERDIDA
+
+https://cloclo14.cloud.mail.ru/weblink/view//AXQ2/PQngb1XBF
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES/ANIMAÇÃO",O GRANDE MAURICINHO
+
+https://cloclo52.cloud.mail.ru/weblink/view//YVYn/EAj3w1Kd4
+
+#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Justice-League-Logo-2017.png" group-title="FILMES/ANIMAÇÃO",LIGA DA JUSTIÇA X RWBY: SUPER-HERÓIS E CAÇADORES - PARTE 1
+
+https://cloclo51.cloud.mail.ru/weblink/view//iavp/nWKAE2gMX
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/pp_mulan_logo_20529_4b763f6d.png" group-title="FILMES/ANIMAÇÃO",MULAN 
+
+https://cloclo11.cloud.mail.ru/weblink/view//Fugb/ryNkaAZ8b
+
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/12/The-LEGO-Batman-Movie-Transparent-Free-PNG.png" group-title="FILMES/ANIMAÇÃO",LEGO BATMAN: O FILME 
+
+https://cloclo58.cloud.mail.ru/weblink/view//wFJq/1hRVEJyjG
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Super_Mario_Bros._Movie_logo.png/2401px-The_Super_Mario_Bros._Movie_logo.png" group-title="FILMES/ANIMAÇÃO",SUPER MARIO BROS: O FILME 
+
+https://cloclo60.cloud.mail.ru/weblink/view//Pavx/YCHetcAxd
 
 #### AMOR MODERNO ####
 
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP1 TEMP1
+
 https://cloclo13.cloud.mail.ru/weblink/view//Mc3o/niniTDZaB
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP2 TEMP1
+
 https://cloclo14.cloud.mail.ru/weblink/view//Zq3c/AVmPjddTu
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP3 TEMP1
+
 https://cloclo51.cloud.mail.ru/weblink/view//puS3/kXvTngTZH
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP4 TEMP1
+
 https://cloclo13.cloud.mail.ru/weblink/view//VuRj/ZuitkK8Ag
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP5 TEMP1
+
 https://cloclo13.cloud.mail.ru/weblink/view//VuRj/ZuitkK8Ag
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP6 TEMP1
+
 https://cloclo55.cloud.mail.ru/weblink/view//r6gb/tWBzUEmBX
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP7 TEMP1
+
 https://cloclo14.cloud.mail.ru/weblink/view//TpwH/2nP5dm1eH
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/653/171/non_2x/love-word-in-brazilian-portuguese-translation-love-png.png" group-title="SÉRIES",AMOR MODERNO EP8 TEMP1
-https://cloclo53.cloud.mail.ru/weblink/view//n7pC/9hFBmaqUq
 
+https://cloclo53.cloud.mail.ru/weblink/view//n7pC/9hFBmaqUq
 
 #### THE LAST OF US ####
 
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP1 TEMP1
+
 https://cloclo56.cloud.mail.ru/weblink/view//RPk3/GNjonw9dH
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP2 TEMP1
+
 https://cloclo21.cloud.mail.ru/weblink/view//tGv2/vBNfEPhRN
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP3 TEMP1
+
 https://cloclo57.cloud.mail.ru/weblink/view//PGWd/nQ73Uh1Y3
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP4 TEMP1
+
 https://cloclo58.cloud.mail.ru/weblink/view//SnPY/LGpsKfSSV
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP5 TEMP1
+
 https://cloclo56.cloud.mail.ru/weblink/view//ieCS/wVod1Lob7
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP6 TEMP1
+
 https://cloclo58.cloud.mail.ru/weblink/view//HuSt/A7RgmFG7c
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP7 TEMP1
+
 https://cloclo61.cloud.mail.ru/weblink/view//mSkj/S7ecrMXEt
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP8 TEMP1
+
 https://cloclo4.cloud.mail.ru/weblink/view//BVFT/1stV7jYPh
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP9 TEMP1
-https://cloclo53.cloud.mail.ru/weblink/view//yy5H/4RYv4f3p7
 
+https://cloclo53.cloud.mail.ru/weblink/view//yy5H/4RYv4f3p7
 
 #### WANDINHA ####
 
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP1 TEMP1
+
 https://cloclo21.cloud.mail.ru/weblink/view//6HuE/A9GpQLfm4
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP2 TEMP1
+
 https://cloclo58.cloud.mail.ru/weblink/view//vfi2/2L7KALJjC
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP3 TEMP1
+
 https://cloclo54.cloud.mail.ru/weblink/view//mbYa/Z7b5B4jcc
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP4 TEMP1
+
 https://cloclo13.cloud.mail.ru/weblink/view//tkGo/9SMghbD2W
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP5 TEMP1
+
 https://cloclo4.cloud.mail.ru/weblink/view//ZKbZ/vXYpL2cVY
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP6 TEMP1
+
 https://cloclo57.cloud.mail.ru/weblink/view//ZUPN/jLQSRDeWD 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP7 TEMP1
+
 https://cloclo4.cloud.mail.ru/weblink/view//JC5f/FGCvkzTE3
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wandinha-logo-E0D694DC9F-seeklogo.com.png?v=638094590720000000" group-title="SÉRIES",WANDINHA EP8 TEMP1
-https://cloclo58.cloud.mail.ru/weblink/view//NSPp/hgwDu13df
 
+https://cloclo58.cloud.mail.ru/weblink/view//NSPp/hgwDu13df
 
 #### ARCANE #### 
 
-
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP1 TEMP1
+
 https://cloclo57.cloud.mail.ru/weblink/view//t8Uc/qz4Mmhzft 
 
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP2 TEMP1
+
 https://cloclo56.cloud.mail.ru/weblink/view//MpoL/6WfBmKpEQ
 
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP3 TEMP1
+
 https://cloclo13.cloud.mail.ru/weblink/view//5Ch2/XmnRrcZm1
 
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP4 TEMP1
+
 https://cloclo61.cloud.mail.ru/weblink/view//Uq4p/sjkmgjszt
 
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP5 TEMP1
+
 https://cloclo50.cloud.mail.ru/weblink/view//jxqg/aNFXQxzmj
 
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP6 TEMP1
+
 https://cloclo57.cloud.mail.ru/weblink/view//42Zq/jjSuZs2wc
 
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP7 TEMP1
+
 https://cloclo61.cloud.mail.ru/weblink/view//9VyR/br6mpUgZ3
 
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP8 TEMP1
+
 https://cloclo58.cloud.mail.ru/weblink/view//8FjG/aspezzKDR
 
 #EXTINF:-1 tvg-logo="https://intothearcane.leagueoflegends.com/assets/images/hero-logos/arcane-logo.png" group-title="SÉRIES",ARCANE EP9 TEMP1
+
 https://cloclo21.cloud.mail.ru/weblink/view//eudj/KWz19hrVy
+
+
