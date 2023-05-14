@@ -4,6 +4,9 @@
 #### CANAIS 24 HORAS ####
 
 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS 24HR",PREMIERE
+https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
