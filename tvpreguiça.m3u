@@ -4,9 +4,6 @@
 #### CANAIS 24 HORAS ####
 
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS 24HR",PREMIERE
-https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
@@ -32,6 +29,9 @@ https://cloclo4.cloud.mail.ru/weblink/view//isPd/PeSX2rnGS
 
 #### FILMES/AÇÃO ####
 
+
+#EXTINF:-1 tvg-logo="https://cinemaritanhaem.com.br/wp-content/uploads/2023/05/title-5.png" group-title="FILMES/AÇÃO",VELOZES E FURIOSOS 10
+https://cloclo60.cloud.mail.ru/weblink/view//tvPM/rjwzasYk9
 
 #EXTINF:-1 tvg-logo="https://johnwick4.com.br/wp-content/uploads/2023/02/slider.png" group-title="FILMES/AÇÃO",JOHN WICK 4: BABA YAGA
 https://cloclo60.cloud.mail.ru/weblink/view//LK4L/rbJjMRqze
