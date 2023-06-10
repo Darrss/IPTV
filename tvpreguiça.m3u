@@ -16,6 +16,9 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CANAIS 24HR",TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" group-title="CANAIS 24HR",NICK TEEN
+https://encurtador.com.br/qAO25
+
 
 #### FILMES/TERROR ####
 
@@ -33,7 +36,7 @@ https://cloclo4.cloud.mail.ru/weblink/view//isPd/PeSX2rnGS
 #### FILMES/AÇÃO ####
 
 
-#EXTINF:-1 group-title="FILMES/AÇÃO",TRANSFORMERS: O DESPERTAR DAS FERAS
+#EXTINF:-1 tvg-logo="https://www.grandefm.com.br/img_news.php?id_foto=61414&wmax=1280&hmax=720" group-title="FILMES/AÇÃO",TRANSFORMERS: O DESPERTAR DAS FERAS
 https://streamtape.com/get_video?id=8dJGMxGPdxTorr8&expires=1686429066&ip=GxIsD0IOKxSHDN&token=YzD5HLm7jlP3&stream=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/saintseya/images/a/a3/Cavaleiros-do-zodiaco.png/revision/latest/thumbnail/width/360/height/360?cb=20140714182808&path-prefix=pt" group-title="FILMES/AÇÃO",OS CAVALEIROS DO ZODÍACO - SAINT SEYA: O COMEÇO
@@ -70,6 +73,9 @@ https://cloclo21.cloud.mail.ru/weblink/view//eQsn/y3FjD1nTp
 #### FILMES/AVENTURA ####
 
 
+#EXTINF:-1 tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Harry-Potter-e-a-Pedra-Filosofal-PNG.png" group-title="FILMES/AVENTURA",HARRY POTTER E A PEDRA FILOSOFAL
+https://cloclo59.cloud.mail.ru/weblink/view//6fZi/PZEJihcJQ
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="FILMES/AVENTURA",OS TRÊS MOSQUETEIROS: D'ARTAGNAN
 https://cloclo56.cloud.mail.ru/weblink/view//jFjh/t25z3RCbr
 
@@ -78,6 +84,9 @@ https://cloclo57.cloud.mail.ru/weblink/view//q3VD/5ijSVnHki
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Peter_Pan_et_Wendy_2023.png" group-title="FILMES/AVENTURA",PETER PAN & WENDY 
 https://cloclo54.cloud.mail.ru/weblink/view//9LSi/hws3d1UfB
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/rndM5RBsjhVLj5jVA8ybEsmaZwc=/0x0:620x443/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/Y/5/iF8OmoTy6eQdkT9Xjz5g/2012-11-05-fundo-transparente.png" group-title="FILMES/AVENTURA",ASTERIX E OBELIX NO REINO DO MEIO
+https://2453340479.tapecontent.net/radosgw/vzwLayqZQ9t4zWA/rpgc7DIMWBcdDIGfKG81Kgh66tAYVYl197UBQHoRDxV1sPD9QrTbwWssesKuYv--0POnZE1WQx6MGwu5aGr4pgiAAw96_QeLH_Jwmt6Y-ZtorNY3L2In3g_-3SPj9y9msb0VWA49aB6deFK_p-FxjdPVRO0N5qOPdc1ZwqBIGOg7X1xEs1WgEWcAbkzH2fUEZ0TvhEimTe_8kEKCXAiEmhN60ifApBXtEPSbCVrsbwOwZC5FfD9s4a6chTZ7v7NuwbyFys7qyyQmFAp5HrwB40BqkE9BARs7WQI8qg/EimUIJ6JLVbJ8rp3.mp4?stream=1
 
 
 #### FILMES/DRAMA ####
@@ -93,7 +102,7 @@ https://cloclo60.cloud.mail.ru/weblink/view//Cbsg/4T1ZFS7t3
 #### FILMES/ANIMAÇÃO ####
 
 
-#EXTINF:-1 group-title="FILMES/ANIMAÇÃO",HOMEM ARANHA: ATRAVÉS DO ARANHAVERSO
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/rndM5RBsjhVLj5jVA8ybEsmaZwc=/0x0:620x443/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/Y/5/iF8OmoTy6eQdkT9Xjz5g/2012-11-05-fundo-transparente.png" group-title="FILMES/ANIMAÇÃO",HOMEM ARANHA: ATRAVÉS DO ARANHAVERSO
 https://cloclo58.cloud.mail.ru/weblink/view//2gPe/CCLjKyKrg
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/The_Lorax_logo.png/revision/latest/scale-to-width-down/250?cb=20211016000530" group-title="FILMES/ANIMAÇÃO",O LORAX: EM BUSCA DA TRÚFULA PERDIDA
@@ -146,31 +155,31 @@ https://cloclo53.cloud.mail.ru/weblink/view//n7pC/9hFBmaqUq
 #### THE LAST OF US ####
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP1 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP1 TEMP1
 https://cloclo56.cloud.mail.ru/weblink/view//RPk3/GNjonw9dH
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP2 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP2 TEMP1
 https://cloclo21.cloud.mail.ru/weblink/view//tGv2/vBNfEPhRN
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP3 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP3 TEMP1
 https://cloclo57.cloud.mail.ru/weblink/view//PGWd/nQ73Uh1Y3
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP4 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP4 TEMP1
 https://cloclo58.cloud.mail.ru/weblink/view//SnPY/LGpsKfSSV
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP5 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP5 TEMP1
 https://cloclo56.cloud.mail.ru/weblink/view//ieCS/wVod1Lob7
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP6 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP6 TEMP1
 https://cloclo58.cloud.mail.ru/weblink/view//HuSt/A7RgmFG7c
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP7 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP7 TEMP1
 https://cloclo61.cloud.mail.ru/weblink/view//mSkj/S7ecrMXEt
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP8 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP8 TEMP1
 https://cloclo4.cloud.mail.ru/weblink/view//BVFT/1stV7jYPh
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z3cRP8h05pQ/Vb_mAqjz7AI/AAAAAAAAB80/MYxlNVx4LFI/s1600/Logo%252520Legi%2525C3%2525A3o%252520dos%252520Super-her%2525C3%2525B3is.png" group-title="SÉRIES",THE LAST OF US EP9 TEMP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Last_of_Us_logo.png" group-title="SÉRIES",THE LAST OF US EP9 TEMP1
 https://cloclo53.cloud.mail.ru/weblink/view//yy5H/4RYv4f3p7
 
 
