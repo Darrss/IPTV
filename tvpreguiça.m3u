@@ -4,6 +4,9 @@
 #### CANAIS 24 HORAS ####
 
 
+#EXTINF:-1 group-title:"CANAIS 24HR",HBO FAMILY
+https://server101.shop/hbo-family/index.m3u8?token=6fe0dd8151b8ec4cc0b99a688989d179629d6a0a-532f81f8ec841046a6b70843ed8d95a6-1690643681-1690636481&remote=45.165.120.82
+
 #EXTINF:-1 group-title:"CANAIS 24HR",DISNEY CHANNEL
 https://server101.shop/disney/index.m3u8?token=79964c6ae76c8c09ecb33aac24e079129350f0ff-80c397039de3d4ce81c24f71a5b6ec13-1690641630-1690634430&remote=45.165.120.82
 
