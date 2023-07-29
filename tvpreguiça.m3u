@@ -4,14 +4,17 @@
 #### CANAIS 24 HORAS ####
 
 
+#EXTINF:-1 group-title:"CANAIS 24HR",TV JUNIOR
+https://server101.shop/tv-junior/index.m3u8?token=9a038b3b3ed7dc7a47fb69794dbe9d600b8f773f-56a579209b06e183d200fe7df82e5595-1690662986-1690655786&remote=45.165.120.82
+
 #EXTINF:-1 group-title:"CANAIS 24HR",HBO FAMILY
-https://server101.shop/hbo-family/index.m3u8?token=6fe0dd8151b8ec4cc0b99a688989d179629d6a0a-532f81f8ec841046a6b70843ed8d95a6-1690643681-1690636481&remote=45.165.120.82
+https://server101.shop/hbo-family/index.m3u8?token=80062ac296544153a4eb424fd42c9ceb3059d676-6715b08ee570ca1cbca284af99bdc692-1690663278-1690656078&remote=45.165.120.82
 
 #EXTINF:-1 group-title:"CANAIS 24HR",DISNEY CHANNEL
-https://server101.shop/disney/index.m3u8?token=79964c6ae76c8c09ecb33aac24e079129350f0ff-80c397039de3d4ce81c24f71a5b6ec13-1690641630-1690634430&remote=45.165.120.82
+https://server101.shop/disney/index.m3u8?token=c4f468ef6541bac270fb65f71b692e5eeeb9df88-d31f7d89b92152dd5909f801389ec5d0-1690663147-1690655947&remote=45.165.120.82
 
 #EXTINF:-1 group-title="CANAIS 24HR",CARTOON NETWORK
-https://server101.shop/cartoon/index.m3u8?token=30f0517b61cec1d6c137512243111e248ba96e34-7ebc03f4f76e4f2ec3fb4fb55a0e482b-1690641425-1690634225&remote=45.165.120.82
+https://server101.shop/cartoon/index.m3u8?token=10163172b5b9032949a30a67e0c9f6ad83cfb2d2-da5d9cd3c3b6c54cb5b3f96d0d0175e1-1690663205-1690656005&remote=45.165.120.82
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
