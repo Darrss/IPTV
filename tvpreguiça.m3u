@@ -4,8 +4,11 @@
 #### CANAIS 24 HORAS ####
 
 
-#EXTINF:-1 group-title="CANAIS 24HR",SPORT TV
-https://server100.shop/sportv/index.m3u8?token=79a111cb23a9e6fea43d6b9abeb7d206e83f152c-92f5ebb53a06942d13c8590c328477d4-1690338751-1690331551&remote=45.165.120.114
+#EXTINF:-1 group-title:"CANAIS 24HR",DISNEY CHANNEL
+https://server101.shop/disney/index.m3u8?token=79964c6ae76c8c09ecb33aac24e079129350f0ff-80c397039de3d4ce81c24f71a5b6ec13-1690641630-1690634430&remote=45.165.120.82
+
+#EXTINF:-1 group-title="CANAIS 24HR",CARTOON NETWORK
+https://server101.shop/cartoon/index.m3u8?token=30f0517b61cec1d6c137512243111e248ba96e34-7ebc03f4f76e4f2ec3fb4fb55a0e482b-1690641425-1690634225&remote=45.165.120.82
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
