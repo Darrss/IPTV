@@ -16,20 +16,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e
 #EXTINF:-1 tvg-id="646663b01593940008990a57" tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="CANAIS 24HR", CAPITÃO TSUBASA 24HR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Turma_da_M%C3%B4nica_Logo.png" group-title="CANAIS 24HR",TURMA DA MONICA 24HR
-https://server101.shop/turma-da-monica/index.m3u8?token=23bca7d20e97fbeda24be39872ee4e511ad0d31d-403c637f9b3a829e55e564e7a5ef3552-1690687166-1690679966&remote=45.165.120.82
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Junior_Logo_2015.png/640px-Junior_Logo_2015.png" group-title="CANAIS 24HR",TV JUNIOR
-https://server101.shop/tv-junior/index.m3u8?token=7efd63e348b8057053a4180488b7f57a24c427cd-3ffe5e941c71a25ddfc773b9ad328301-1690686705-1690679505&remote=45.165.120.82
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS 24HR",HBO FAMILY
-https://server101.shop/hbo-family/index.m3u8?token=4fcca94dc0c734ee0c5d5735991b8909c578710a-6857aa1b9f873427440b51787d163704-1690686637-1690679437&remote=45.165.120.82
+https://server101.shop/hbo-family/index.m3u8?token=f4687a86d537cac4e9e8bc19d50541b443c07302-8244a39db08a0747c5f898804923686d-1690723830-1690716630&remote=45.165.120.85
 
 #EXTINF:-1 group-title:"CANAIS 24HR",DISNEY CHANNEL
-https://server101.shop/d-kids/index.m3u8?token=75827c714392a501d543007743a001dc068c5ef3-6d76c300e6308c3fa281e1c8406ce7a8-1690686531-1690679331&remote=45.165.120.82
+https://server101.shop/disney/index.m3u8?token=ab694dad493fe91fb21c3d336d7e72027cc3d29a-735fdc9d4d734865f65f7e1a84f9f607-1690723565-1690716365&remote=45.165.120.85
 
 #EXTINF:-1 group-title="CANAIS 24HR",CARTOON NETWORK
-https://server101.shop/cartoon/index.m3u8?token=1574fdcab48c026b99faec18006e5c293690d268-ce6e38f58917277b9ae3683cc29030cb-1690686404-1690679204&remote=45.165.120.82
+https://server101.shop/cartoon/index.m3u8?token=f4b84869440c9e509ee715033e9945ccf6a8105d-e1ae79ab172d0543f50547042f15f3a7-1690723652-1690716452&remote=45.165.120.85
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
