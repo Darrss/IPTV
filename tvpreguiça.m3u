@@ -5,16 +5,16 @@
 
 
 #EXTINF:-1 group-title:"CANAIS 24HR",TV JUNIOR
-https://server101.shop/tv-junior/index.m3u8?token=9a038b3b3ed7dc7a47fb69794dbe9d600b8f773f-56a579209b06e183d200fe7df82e5595-1690662986-1690655786&remote=45.165.120.82
+https://server101.shop/tv-junior/index.m3u8?token=7efd63e348b8057053a4180488b7f57a24c427cd-3ffe5e941c71a25ddfc773b9ad328301-1690686705-1690679505&remote=45.165.120.82
 
 #EXTINF:-1 group-title:"CANAIS 24HR",HBO FAMILY
-https://server101.shop/hbo-family/index.m3u8?token=80062ac296544153a4eb424fd42c9ceb3059d676-6715b08ee570ca1cbca284af99bdc692-1690663278-1690656078&remote=45.165.120.82
+https://server101.shop/hbo-family/index.m3u8?token=4fcca94dc0c734ee0c5d5735991b8909c578710a-6857aa1b9f873427440b51787d163704-1690686637-1690679437&remote=45.165.120.82
 
 #EXTINF:-1 group-title:"CANAIS 24HR",DISNEY CHANNEL
-https://server101.shop/disney/index.m3u8?token=c4f468ef6541bac270fb65f71b692e5eeeb9df88-d31f7d89b92152dd5909f801389ec5d0-1690663147-1690655947&remote=45.165.120.82
+https://server101.shop/d-kids/index.m3u8?token=75827c714392a501d543007743a001dc068c5ef3-6d76c300e6308c3fa281e1c8406ce7a8-1690686531-1690679331&remote=45.165.120.82
 
 #EXTINF:-1 group-title="CANAIS 24HR",CARTOON NETWORK
-https://server101.shop/cartoon/index.m3u8?token=10163172b5b9032949a30a67e0c9f6ad83cfb2d2-da5d9cd3c3b6c54cb5b3f96d0d0175e1-1690663205-1690656005&remote=45.165.120.82
+https://server101.shop/cartoon/index.m3u8?token=1574fdcab48c026b99faec18006e5c293690d268-ce6e38f58917277b9ae3683cc29030cb-1690686404-1690679204&remote=45.165.120.82
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
