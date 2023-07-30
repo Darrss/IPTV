@@ -4,6 +4,9 @@
 #### CANAIS 24 HORAS ####
 
 
+#EXTINF:-1 group-title:"CANAIS 24HR",TURMA DA MONICA 24HR
+https://server101.shop/turma-da-monica/index.m3u8?token=23bca7d20e97fbeda24be39872ee4e511ad0d31d-403c637f9b3a829e55e564e7a5ef3552-1690687166-1690679966&remote=45.165.120.82
+
 #EXTINF:-1 group-title:"CANAIS 24HR",TV JUNIOR
 https://server101.shop/tv-junior/index.m3u8?token=7efd63e348b8057053a4180488b7f57a24c427cd-3ffe5e941c71a25ddfc773b9ad328301-1690686705-1690679505&remote=45.165.120.82
 
