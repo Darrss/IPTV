@@ -17,13 +17,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS 24HR",HBO FAMILY
-https://server101.shop/hbo-family/index.m3u8?token=f4687a86d537cac4e9e8bc19d50541b443c07302-8244a39db08a0747c5f898804923686d-1690723830-1690716630&remote=45.165.120.85
+https://server101.shop/hbo-family/index.m3u8?token=9625ca3677132278af3f467f3204d1e69f3e0774-c7c9a5fea8d99cd33e53f0717925bed6-1690730968-1690723768&remote=45.165.120.85
 
 #EXTINF:-1 group-title:"CANAIS 24HR",DISNEY CHANNEL
-https://server101.shop/disney/index.m3u8?token=ab694dad493fe91fb21c3d336d7e72027cc3d29a-735fdc9d4d734865f65f7e1a84f9f607-1690723565-1690716365&remote=45.165.120.85
+https://server101.shop/disney/index.m3u8?token=94c9e43c26a485f2262ccee80a79aea1bcfd3627-3826be303b9e805614b13d992b13a518-1690730928-1690723728&remote=45.165.120.85
 
 #EXTINF:-1 group-title="CANAIS 24HR",CARTOON NETWORK
-https://server101.shop/cartoon/index.m3u8?token=f4b84869440c9e509ee715033e9945ccf6a8105d-e1ae79ab172d0543f50547042f15f3a7-1690723652-1690716452&remote=45.165.120.85
+https://server101.shop/cartoon/index.m3u8?token=0e3838fa2489c8d7da25ed67df213c30a522e01b-5f9148486c23837be82f0cd5d53a5fea-1690730871-1690723671&remote=45.165.120.85
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -293,81 +293,87 @@ https://cloclo58.cloud.mail.ru/weblink/view//8FjG/aspezzKDR
 https://cloclo21.cloud.mail.ru/weblink/view//eudj/KWz19hrVy 
 
 
+#### O INCRÍVEL MUNDO DE GUMBALL ####
+
+
+#EXTINF:-1 group-title="ANIMES/DESENHOS",O INCRÍVEL MUNDO DE GUMBALL EP1
+https://rr17---sn-pmcg-bg0z.googlevideo.com/videoplayback?expire=1690751948&ei=TGPGZLj0HIDSxtYP_Lao4AI&ip=45.165.120.85&id=f8a0f2e490934ab6&itag=18&source=blogger&mh=Rf&mm=31&mn=sn-pmcg-bg0z&ms=au&mv=m&mvi=17&pl=24&susc=bl&eaua=r1LCv8-sK7Q&mime=video/mp4&vprv=1&dur=660.491&lmt=1467313618327834&mt=1690722833&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAIONVO19YPzeEwqg1DjkY3yiFhvfB_72AYe4O93zcEx_AiEAmo-7dP2-4jh7YxTwpmMslsb__YXoVWbfmu2eWGpmJjM%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhANBMKIwOn78fTUDXdfKqx3uexhRh7IYHulf-8XCm9cwbAiB8E4mIh6LF4jhgbhwAupjqliGN--84o2DZyIwfkkhKmg%3D%3D&cpn=I9RDoIPc1Vt-4NkA&c=WEB_EMBEDDED_PLAYER&cver=1.20230723.00.01
+
 #### TOKYO GHOUL #### 
 
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP1 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP1 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/1.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP2 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP2 
  https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/2.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP3 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP3 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/3.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP4 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP4 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/4.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP5 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP5 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/5.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP6 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP6 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/6.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP7 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP7 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/7.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP8 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP8 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/8.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP9 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP9 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/9.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP10 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP10 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/10.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP11 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP11 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/11.mp4
 
-#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES",TOKYO GHOUL EP12 
+#EXTINF:-1 tvg-logo="https://occ-0-420-3647.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTEWsgw-TAPCsqtbN73td2YUo-j_P72600jPAtT829hKOzVBV8_xDCZFYRYF9ioBZBj8gnVgrv2iSIj8Bf1TQkmTuSQ1_KzAdecPEq47tcTC.png?r=780" group-title="ANIMES/DESENHOS",TOKYO GHOUL EP12 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-dublado/sd/12.mp4 
 
 
 #### TOKYO GHOUL √A #### 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP1 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP1 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/1.mp4 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP2 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP2 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP3 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP3 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP4 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP5 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP5 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP6 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP6 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/6.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP7 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP7 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/7.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP8 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP8 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/8.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP9 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP9 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/9.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP10 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP10 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/10.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP11 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP11 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/11.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES",TOKYO GHOUL √A EP12 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/ed/d4/5aedd4877dc7558d356278be08a872ed.png" group-title="ANIMES/DESENHOS",TOKYO GHOUL √A EP12 
 https://lightspeedst.net/s3/mp4/tokyo-ghoul-a-dublado/sd/12.mp4
