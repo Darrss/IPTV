@@ -4,13 +4,25 @@
 #### CANAIS 24 HORAS ####
 
 
-#EXTINF:-1 group-title:"CANAIS 24HR",TURMA DA MONICA 24HR
+#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="CANAIS 24HR",ONE PIECE 24HR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/046zDW4.png" group-title="CANAIS 24HR",NARUTO 24HR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="CANAIS 24HR",BEYBLADE 24HR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="646663b01593940008990a57" tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="CANAIS 24HR", CAPITÃO TSUBASA 24HR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Turma_da_M%C3%B4nica_Logo.png" group-title="CANAIS 24HR",TURMA DA MONICA 24HR
 https://server101.shop/turma-da-monica/index.m3u8?token=23bca7d20e97fbeda24be39872ee4e511ad0d31d-403c637f9b3a829e55e564e7a5ef3552-1690687166-1690679966&remote=45.165.120.82
 
-#EXTINF:-1 group-title:"CANAIS 24HR",TV JUNIOR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Junior_Logo_2015.png/640px-Junior_Logo_2015.png" group-title="CANAIS 24HR",TV JUNIOR
 https://server101.shop/tv-junior/index.m3u8?token=7efd63e348b8057053a4180488b7f57a24c427cd-3ffe5e941c71a25ddfc773b9ad328301-1690686705-1690679505&remote=45.165.120.82
 
-#EXTINF:-1 group-title:"CANAIS 24HR",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS 24HR",HBO FAMILY
 https://server101.shop/hbo-family/index.m3u8?token=4fcca94dc0c734ee0c5d5735991b8909c578710a-6857aa1b9f873427440b51787d163704-1690686637-1690679437&remote=45.165.120.82
 
 #EXTINF:-1 group-title:"CANAIS 24HR",DISNEY CHANNEL
