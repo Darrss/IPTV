@@ -4,16 +4,16 @@
 #### CANAIS 24 HORAS ####
 
 
-#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="CANAIS 24HR",ONE PIECE 24HR
+#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="CANAIS 24HR",ONE PIECE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/046zDW4.png" group-title="CANAIS 24HR",NARUTO 24HR
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/046zDW4.png" group-title="CANAIS 24HR",NARUTO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="CANAIS 24HR",BEYBLADE 24HR
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="CANAIS 24HR",BEYBLADE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="646663b01593940008990a57" tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="CANAIS 24HR", CAPITÃO TSUBASA 24HR
+#EXTINF:-1 tvg-id="646663b01593940008990a57" tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="CANAIS 24HR", CAPITÃO TSUBASA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS 24HR",HBO FAMILY
@@ -40,7 +40,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" group-title="CANAIS 24HR",NICK TEEN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="CANAIS 24HR",BOB ESPONJA 24HR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="CANAIS 24HR",BOB ESPONJA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
@@ -293,11 +293,27 @@ https://cloclo58.cloud.mail.ru/weblink/view//8FjG/aspezzKDR
 https://cloclo21.cloud.mail.ru/weblink/view//eudj/KWz19hrVy 
 
 
-#### O INCRÍVEL MUNDO DE GUMBALL ####
+#### STEVEN UNIVERSE FUTURE ####
 
 
-#EXTINF:-1 group-title="ANIMES/DESENHOS",O INCRÍVEL MUNDO DE GUMBALL EP1
-https://rr17---sn-pmcg-bg0z.googlevideo.com/videoplayback?expire=1690751948&ei=TGPGZLj0HIDSxtYP_Lao4AI&ip=45.165.120.85&id=f8a0f2e490934ab6&itag=18&source=blogger&mh=Rf&mm=31&mn=sn-pmcg-bg0z&ms=au&mv=m&mvi=17&pl=24&susc=bl&eaua=r1LCv8-sK7Q&mime=video/mp4&vprv=1&dur=660.491&lmt=1467313618327834&mt=1690722833&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAIONVO19YPzeEwqg1DjkY3yiFhvfB_72AYe4O93zcEx_AiEAmo-7dP2-4jh7YxTwpmMslsb__YXoVWbfmu2eWGpmJjM%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhANBMKIwOn78fTUDXdfKqx3uexhRh7IYHulf-8XCm9cwbAiB8E4mIh6LF4jhgbhwAupjqliGN--84o2DZyIwfkkhKmg%3D%3D&cpn=I9RDoIPc1Vt-4NkA&c=WEB_EMBEDDED_PLAYER&cver=1.20230723.00.01
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/SUFlogo.png/revision/latest/scale-to-width-down/1200?cb=20200327044138" group-title="ANIMES/DESENHOS",STEVEN UNIVERSE FUTURE EP1
+https://video.wixstatic.com/video/6ebddc_8d539a0280fb45e28a284b5b69f49ccc/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/SUFlogo.png/revision/latest/scale-to-width-down/1200?cb=20200327044138" group-title="ANIMES/DESENHOS",STEVEN UNIVERSE FUTURE EP2
+https://video.wixstatic.com/video/6ebddc_a63e8c890fc6453f93502a473f463a58/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/SUFlogo.png/revision/latest/scale-to-width-down/1200?cb=20200327044138" group-title="ANIMES/DESENHOS",STEVEN UNIVERSE FUTURE EP3
+https://video.wixstatic.com/video/6ebddc_9e2b19185eef4582bd23124f86aa8f65/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/SUFlogo.png/revision/latest/scale-to-width-down/1200?cb=20200327044138" group-title="ANIMES/DESENHOS",STEVEN UNIVERSE FUTURE EP4
+https://video.wixstatic.com/video/6ebddc_246ec8b8726c4f1caefb1eae18c93b71/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/SUFlogo.png/revision/latest/scale-to-width-down/1200?cb=20200327044138" group-title="ANIMES/DESENHOS",STEVEN UNIVERSE FUTURE EP5
+https://video.wixstatic.com/video/6ebddc_e289460758fc4f8c91e480adaad553fb/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/SUFlogo.png/revision/latest/scale-to-width-down/1200?cb=20200327044138" group-title="ANIMES/DESENHOS",STEVEN UNIVERSE FUTURE EP6
+https://video.wixstatic.com/video/6ebddc_6a42dd4ff0834567abb064aed1dfff88/720p/mp4/file.mp4
+
 
 #### TOKYO GHOUL #### 
 
