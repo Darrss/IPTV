@@ -17,13 +17,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS 24HR",HBO FAMILY
-https://server101.shop/hbo-family/index.m3u8?token=acf68ba8709692b1c067f5381928a633c133f1be-813284e5e310f5f43f6204b445e155da-1690761931-1690754731&remote=45.165.120.85
+https://server101.shop/hbo-family/index.m3u8?token=93a5fe3aad895fdace779ca5721697d5f9548149-f1a54875895918ec2a1b83c5e6286623-1690933010-1690925810&remote=45.165.120.100
 
 #EXTINF:-1 group-title:"CANAIS 24HR",DISNEY CHANNEL
-https://server101.shop/disney/index.m3u8?token=c9b17d3a2c25a65528f725fff05c14486d1df5a7-f3b90e2f7e98320a08063a45b2a6b760-1690761883-1690754683&remote=45.165.120.85
+https://server101.shop/disney/index.m3u8?token=185e09138f13f4f5c534cf5a9896cede692c9634-6a53f3edac9b3cba3a32ca95615b528b-1690932884-1690925684&remote=45.165.120.100
 
 #EXTINF:-1 group-title="CANAIS 24HR",CARTOON NETWORK
-https://server101.shop/cartoon/index.m3u8?token=d381e7d963cbeee9efcb129dcb6c5499b580a8ff-06c86c0e151569f8ec01ead5977371f2-1690761790-1690754590&remote=45.165.120.85
+https://server101.shop/cartoon/index.m3u8?token=daf1209258e7b53102f2f3bcd4edc4a6f73aaca1-1b0bd18816b25a6a833db0059ce5a4ab-1690932958-1690925758&remote=45.165.120.100
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" group-title="CANAIS 24HR",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -293,11 +293,11 @@ https://cloclo58.cloud.mail.ru/weblink/view//8FjG/aspezzKDR
 https://cloclo21.cloud.mail.ru/weblink/view//eudj/KWz19hrVy 
 
 
-#### O INCRÍVEL MUNDO DE GUMBALL ####
+#### STAR VS AS FORÇAS DO MAL ####
 
 
-#EXTINF:-1 group-title="ANIMES/DESENHOS",O INCRÍVEL MUNDO DE GUMBALL EP1
-
+#EXTINF:-1 tvg-logo="https://www.crmv.am.gov.br/wp-content/uploads/2018/07/Fundo-transparente-1900x1900-1-768x768.png" group-title="ANIMES/DESENHOS",STAR VS AS FORÇAS DO MAL EP1
+https://www.googleapis.com/drive/v3/files/144BaFN5bFgRqHtbOuVQbWYoYaDY8q1s2?alt=media&key=AIzaSyC0JltqdOzGs9BgoiS5QpcqljXx3gaCo4A
 
 
 
